@@ -1,0 +1,5 @@
+{
+    "sports":       ["golf", "hockey", "football"],
+    "animals":      ["giraffe", "snake", "lizard", "puma"],
+    "video games":  ["pacman", "asteroids", "super mario brothers", "donkey kong"]
+}
